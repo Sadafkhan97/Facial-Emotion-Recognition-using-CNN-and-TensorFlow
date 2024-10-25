@@ -27,12 +27,12 @@ pip install tensorflow keras numpy pandas matplotlib opencv-python
 
 ##Usage
 1. Clone the repository:
-git clone https://github.com/your-username/facial-emotion-recognition.git
+https://github.com/Sadafkhan97/Facial-Emotion-Recognition-using-CNN-and-TensorFlow
 
-2. Navigate to the project directory:
+3. Navigate to the project directory:
 cd facial-emotion-recognition
 
-3. Run the training script:
+4. Run the training script:
 python train.py
 
 ##Evaluation
